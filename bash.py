@@ -49,4 +49,4 @@ class bash:
         session.close()
 
 def setup(bot):
-    bot.add_cog(DadJoke(bot))
+    bot.add_cog(Bash(bot))
